@@ -33,20 +33,22 @@ Whether you're a student, developer, or content creator — ReadabilityPro makes
 - 🎨 UI: Modern responsive design
 
 ---
-
 ## 📂 Project Structure
+
+```
 ReadabilityPro-AI-Writing-Assistant/
 │
 ├── Code/
-│ └── readabilitypro/
-│ ├── src/
-│ ├── public/
-│ ├── backend/
-│ ├── components/
-│ └── assets/
+│   └── readabilitypro/
+│       ├── src/
+│       ├── public/
+│       ├── backend/
+│       ├── components/
+│       └── assets/
 │
 ├── README.md
 └── package.json
+```
 
 
 ---
@@ -107,7 +109,23 @@ If you like this project:
 “Good writing is clear thinking made visible.” ✨
 ## 👨‍💻 Contributors
 
-This project is collaboratively built by:
+## 👨‍💻 Contributors
 
-- 👩‍💻 **Fiza Bashir** – [GitHub Profile](https://github.com/FizaBashir02)  
-- 👨‍💻 **Jamshaid Ghafoor** – [GitHub Profile](https://github.com/jamshaid-0206)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/FizaBashir02">
+        <img src="https://github.com/FizaBashir02.png" width="100px;" alt="Fiza Bashir"/><br />
+        <sub><b>Fiza Bashir</b></sub>
+      </a><br />
+      🎓 Co-Developer
+    </td>
+    <td align="center">
+      <a href="https://github.com/jamshaid-0206">
+        <img src="https://github.com/jamshaid-0206.png" width="100px;" alt="Jamshaid Ghafoor"/><br />
+        <sub><b>Jamshaid Ghafoor</b></sub>
+      </a><br />
+      💻 Co-Developer
+    </td>
+  </tr>
+</table>
