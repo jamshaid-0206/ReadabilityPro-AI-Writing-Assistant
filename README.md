@@ -35,3 +35,79 @@ Whether you're a student, developer, or content creator — ReadabilityPro makes
 ---
 
 ## 📂 Project Structure
+ReadabilityPro-AI-Writing-Assistant/
+│
+├── Code/
+│ └── readabilitypro/
+│ ├── src/
+│ ├── public/
+│ ├── backend/
+│ ├── components/
+│ └── assets/
+│
+├── README.md
+└── package.json
+
+
+---
+
+## 🚀 How to Run Locally
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/jamshaid-0206/ReadabilityPro-AI-Writing-Assistant.git
+2️⃣ Navigate to project folder
+cd ReadabilityPro-AI-Writing-Assistant/Code/readabilitypro
+3️⃣ Install dependencies
+npm install
+4️⃣ Start the project
+npm start
+🌐 Live Demo
+
+👉 (Add your deployed link here once hosted)
+
+https://your-live-project-link.com
+📸 Screenshots
+
+✨ Add screenshots of your UI here
+
+![Home Page](assets/home.png)
+![Editor](assets/editor.png)
+🎯 Use Cases
+📚 Students improving essays
+🧑‍💻 Developers writing documentation
+✍️ Content writers optimizing blogs
+🏢 Professionals writing reports
+🌍 Anyone improving English writing
+🔮 Future Improvements
+🌐 Multi-language support
+🤖 Advanced AI model integration
+🎤 Voice-to-text writing assistant
+☁️ Cloud storage for documents
+📊 Advanced readability analytics
+👨‍💻 Author
+
+Jamshaid Ghafoor
+💻 Computer Science Student
+📍 Islamabad, Pakistan
+
+📜 License
+
+This project is licensed under the MIT License.
+
+⭐ Support
+
+If you like this project:
+⭐ Star the repo
+🍴 Fork it
+🚀 Share it with others
+
+💡 Quote
+
+“Good writing is clear thinking made visible.” ✨
+## 👨‍💻 Contributors
+
+This project is collaboratively built by:
+
+- 👩‍💻 **Fiza Bashir** – [GitHub Profile](https://github.com/FizaBashir02)  
+- 👨‍💻 **Jamshaid Ghafoor** – [GitHub Profile](https://github.com/jamshaid-0206)
