@@ -107,7 +107,22 @@ If you like this project:
 💡 Quote
 
 “Good writing is clear thinking made visible.” ✨
-## 👨‍💻 Contributors
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/FizaBashir02">
+        <img src="https://github.com/FizaBashir02.png" width="120" alt="Fiza Bashir"/><br />
+        <sub><b>Fiza Bashir</b></sub>
+      </a><br />
+      🎓 Co-Developer
+    </td>
 
-- 👩‍💻 [Fiza Bashir](https://github.com/FizaBashir02)
-- 👨‍💻 [Jamshaid Ghafoor](https://github.com/jamshaid-0206)
+    <td align="center">
+      <a href="https://github.com/jamshaid-0206">
+        <img src="https://github.com/jamshaid-0206.png" width="120" alt="Jamshaid Ghafoor"/><br />
+        <sub><b>Jamshaid Ghafoor</b></sub>
+      </a><br />
+      💻 Co-Developer
+    </td>
+  </tr>
+</table>
