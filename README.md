@@ -63,18 +63,10 @@ cd ReadabilityPro-AI-Writing-Assistant/Code/readabilitypro
 3️⃣ Install dependencies
 npm install
 4️⃣ Start the project
-npm start
-🌐 Live Demo
+npm run dev
 
-👉 (Add your deployed link here once hosted)
 
-https://your-live-project-link.com
-📸 Screenshots
 
-✨ Add screenshots of your UI here
-
-![Home Page](assets/home.png)
-![Editor](assets/editor.png)
 🎯 Use Cases
 📚 Students improving essays
 🧑‍💻 Developers writing documentation
